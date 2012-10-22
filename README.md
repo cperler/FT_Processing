@@ -1,0 +1,1 @@
+This is the start of an application for processing Full Tilt Poker messages - this was just a development experiment, not something that was actually used for automated online poker playing.  Of interest is Input/Files/FTReader.cs which has the full set of regex needed to figure out what's happening during a round of hold'em.
