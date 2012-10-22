@@ -1,0 +1,1 @@
+insert into properties (property, value) values ('version', '1.0.0.0');
